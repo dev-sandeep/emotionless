@@ -210,7 +210,7 @@
 	------------------------------------------------------ */
 	function timer() {
 		var final = {};
-		var ts2 = new Date("2019-08-19 10:20");
+		var ts2 = new Date("2019-11-01 00:01");
 		ts2 = ts2.getTime();
 
 		var ts1 = new Date();
